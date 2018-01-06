@@ -9,5 +9,8 @@ Zwave Stick - zwave stick (aeon labs) - named "Stick"
 # Prepare ZS
 - factory reset
 - add controller to account
-- static ip
-- disable wifi
+- go to ~ settings ~ net & wifi
+  - disable auto detect devices on my home network
+  - static ip ( optional: with firewall disabled )
+  - dhcp server: off
+  - wifi: disabled ( optional )
